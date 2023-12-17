@@ -1,4 +1,4 @@
 # USER_MANAGER_SHEET
 
-> .[!IMPORTANT].
+> [!NOTE]
 > This is under development
